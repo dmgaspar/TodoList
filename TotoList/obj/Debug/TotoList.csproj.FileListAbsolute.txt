@@ -77,3 +77,7 @@ C:\Users\User\source\repos\TotoList\TotoList\obj\Debug\TotoList.csproj.CoreCompi
 C:\Users\User\source\repos\TotoList\TotoList\obj\Debug\TotoList.csproj.CopyComplete
 C:\Users\User\source\repos\TotoList\TotoList\obj\Debug\TotoList.dll
 C:\Users\User\source\repos\TotoList\TotoList\obj\Debug\TotoList.pdb
+C:\Users\User\source\repos\TotoList\TotoList\bin\EntityFramework.dll
+C:\Users\User\source\repos\TotoList\TotoList\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\TotoList\TotoList\bin\EntityFramework.xml
+C:\Users\User\source\repos\TotoList\TotoList\bin\EntityFramework.SqlServer.xml
